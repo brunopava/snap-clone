@@ -1,4 +1,4 @@
-# snap-clone
+# Pokemon Snap Clone
 
 
 Assets Used:
